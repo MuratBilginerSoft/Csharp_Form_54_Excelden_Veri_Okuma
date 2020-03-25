@@ -1,0 +1,14 @@
+F:\M & B\1 Murat\3 Yazılım\1 C# Programlama\9 Proje\Kod H Excelden Veri Okuma\Kod H Excelden Veri Okuma\bin\Debug\Kod H Excelden Veri Okuma.exe
+F:\M & B\1 Murat\3 Yazılım\1 C# Programlama\9 Proje\Kod H Excelden Veri Okuma\Kod H Excelden Veri Okuma\bin\Debug\Kod H Excelden Veri Okuma.pdb
+F:\M & B\1 Murat\3 Yazılım\1 C# Programlama\9 Proje\Kod H Excelden Veri Okuma\Kod H Excelden Veri Okuma\obj\x86\Debug\Kod_H_Excelden_Veri_Okuma.Form1.resources
+F:\M & B\1 Murat\3 Yazılım\1 C# Programlama\9 Proje\Kod H Excelden Veri Okuma\Kod H Excelden Veri Okuma\obj\x86\Debug\Kod_H_Excelden_Veri_Okuma.Properties.Resources.resources
+F:\M & B\1 Murat\3 Yazılım\1 C# Programlama\9 Proje\Kod H Excelden Veri Okuma\Kod H Excelden Veri Okuma\obj\x86\Debug\Kod H Excelden Veri Okuma.csproj.GenerateResource.Cache
+F:\M & B\1 Murat\3 Yazılım\1 C# Programlama\9 Proje\Kod H Excelden Veri Okuma\Kod H Excelden Veri Okuma\obj\x86\Debug\Kod H Excelden Veri Okuma.exe
+F:\M & B\1 Murat\3 Yazılım\1 C# Programlama\9 Proje\Kod H Excelden Veri Okuma\Kod H Excelden Veri Okuma\obj\x86\Debug\Kod H Excelden Veri Okuma.pdb
+E:\04 - Yazılım\05 - Büyük Projeler\03 Excelden Veri Okuma\Kod H Excelden Veri Okuma\obj\x86\Debug\Kod H Excelden Veri Okuma.exe
+E:\04 - Yazılım\05 - Büyük Projeler\03 Excelden Veri Okuma\Kod H Excelden Veri Okuma\obj\x86\Debug\Kod H Excelden Veri Okuma.pdb
+E:\04 - Yazılım\05 - Büyük Projeler\03 Excelden Veri Okuma\Kod H Excelden Veri Okuma\bin\Debug\Kod H Excelden Veri Okuma.exe
+E:\04 - Yazılım\05 - Büyük Projeler\03 Excelden Veri Okuma\Kod H Excelden Veri Okuma\bin\Debug\Kod H Excelden Veri Okuma.pdb
+E:\04 - Yazılım\05 - Büyük Projeler\03 Excelden Veri Okuma\Kod H Excelden Veri Okuma\obj\x86\Debug\Kod_H_Excelden_Veri_Okuma.Form1.resources
+E:\04 - Yazılım\05 - Büyük Projeler\03 Excelden Veri Okuma\Kod H Excelden Veri Okuma\obj\x86\Debug\Kod_H_Excelden_Veri_Okuma.Properties.Resources.resources
+E:\04 - Yazılım\05 - Büyük Projeler\03 Excelden Veri Okuma\Kod H Excelden Veri Okuma\obj\x86\Debug\Kod H Excelden Veri Okuma.csproj.GenerateResource.Cache
